@@ -129,7 +129,7 @@ Hệ thống có giao diện hỗ trợ nhập điểm với các phương thứ
 │       📥 THÊM ĐIỂM TỪ KHẢO THÍ          │
 ├─────────────────────────────────────────┤
 │                                         │
-│       ⚡ TỰ ĐỘNG    │    ✋ THỦ CÔNG     │
+│       ⚡ TỰ ĐỘNG    │    ✋ THỦ CÔNG   │
 │                                         │
 └─────────────────────────────────────────┘
 ```
@@ -173,17 +173,17 @@ KMA Schedule được phát triển theo hướng **module hóa**, cho phép b�
 
 # 🛠️ Công nghệ sử dụng
 
-| Công nghệ               | Vai trò                 |
-| ----------------------- | ----------------------- |
-| 🐘 **PHP**              | Backend / Server-side   |
-| 🗄️ **MySQL / MariaDB** | Cơ sở dữ liệu           |
-| 🌐 **HTML5**            | Xây dựng giao diện      |
-| 🎨 **CSS3**             | Styling & Responsive    |
-| ⚡ **JavaScript**        | Tương tác phía Client   |
-| 📅 **FullCalendar**     | Hiển thị lịch           |
-| 🔐 **Session**          | Quản lý phiên đăng nhập |
-| 🔗 **REST / Web API**   | Trao đổi dữ liệu        |
-| 🛡️ **reCAPTCHA**       | Hỗ trợ bảo vệ hệ thống  |
+| Công nghệ                | Vai trò                  |
+| ------------------------ | -----------------------  |
+| 🐘 **PHP**              | Backend / Server-side    |
+| 🗄️ **MySQL / MariaDB**  | Cơ sở dữ liệu            |
+| 🌐 **HTML5**            | Xây dựng giao diện       |
+| 🎨 **CSS3**             | Styling & Responsive     |
+| ⚡ **JavaScript**       | Tương tác phía Client    |
+| 📅 **FullCalendar**     | Hiển thị lịch            |
+| 🔐 **Session**          | Quản lý phiên đăng nhập  |
+| 🔗 **REST / Web API**   | Trao đổi dữ liệu         |
+| 🛡️ **reCAPTCHA**        | Hỗ trợ bảo vệ hệ thống   |
 
 ---
 
@@ -211,11 +211,11 @@ Hệ thống được thiết kế để hoạt động trên:
 └──────────────┘
 
 ┌────────────────────┐
-│ 📲 Tablet         │
+│ 📲 Tablet          │
 └────────────────────┘
 
 ┌──────────────────────────────┐
-│ 💻 Laptop / Desktop         │
+│ 💻 Laptop / Desktop          │
 └──────────────────────────────┘
 ```
 
@@ -338,14 +338,14 @@ Dự án vẫn đang được phát triển.
 * [x] Lịch sử nạp
 * [x] Nhập HTML thủ công
 * [x] Phân tích dữ liệu
-* [ ] Tự động đồng bộ
+* [x] Tự động đồng bộ
 
 ### 📱 Platform
 
 * [x] Website
 * [x] Android App
-* [ ] PWA nâng cao
-* [ ] Push Notification
+* [x] PWA nâng cao
+* [x] Push Notification
 * [ ] Các tiện ích học tập mới
 
 ---
@@ -367,7 +367,7 @@ KMA Schedule là một dự án được phát triển với định hướng h�
 <p align="center">
 
 | 🌐 Nền tảng                 | 🔗 Liên kết                       |
-| --------------------------- | --------------------------------- |
+| --------------------------- | ---------------------------------  |
 | 🌐 **KMA Schedule**         | https://kmaschedule.io.vn/        |
 | 💻 **GitHub**               | https://github.com/cPcDev85       |
 | 📘 **Facebook**             | https://www.facebook.com/cPcDev07 |
