@@ -406,7 +406,7 @@ Nếu bạn đang sử dụng hoặc quan tâm tới dự án:
 
 # 📜 Bản quyền
 
-© **2026 cPcDev — Nguyễn Đình Chiến**
+© **2026 cPcDev - Nguyễn Đình Chiến**
 
 **KMA Schedule** là dự án được phát triển bởi **cPcDev**.
 
